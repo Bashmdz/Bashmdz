@@ -1,6 +1,6 @@
 ### 🚀 Full-Stack Developer | Building Digital Experiences
 
-Hey there! 👋 I'm [Your Name], a passionate full-stack developer with a love for crafting clean code and creating seamless user experiences. My journey in the world of tech began with a curiosity for how things work, and it has evolved into a deep-seated passion for building robust applications.
+Hey there! 👋 I'm Bashar Zheiman, a passionate full-stack developer with a love for crafting clean code and creating seamless user experiences. My journey in the world of tech began with a curiosity for how things work, and it has evolved into a deep-seated passion for building robust applications.
 
 #### 💻 Tech Stack:
 - Frontend: JavaScript (React, Vue), HTML5, CSS3
