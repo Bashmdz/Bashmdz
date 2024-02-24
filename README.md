@@ -15,9 +15,9 @@ Hey there! 👋 I'm Bashar Zheiman, a passionate full-stack developer with a lov
 - Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
   
 #### 🌐 Let's Connect:
-- 📫 Drop me a message: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 Visit my portfolio: [yourportfolio.com](https://www.yourportfolio.com)
+- 📫 Drop me a message: [bashar.zheiman@gmail.com](mailto:bashar.zheiman@gmail.com)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bashar-zheiman/)
+- 🌐 Visit my portfolio: [https://app.stylingcv.com/me/Bashar-Zheiman](https://app.stylingcv.com/me/Bashar-Zheiman)
   
 #### 🎨 Fun Facts:
 - When I'm not coding, you can find me exploring new hiking trails or trying out new recipes in the kitchen.
